@@ -1,0 +1,12 @@
+
+/**
+ *
+ * @author Andre
+ */
+
+1 - Abra o jogo
+2 - Carregar Arquivo
+3 - V· para a pasta 'arquivos' e carregue um labirinto.
+4 - Clique em 'Percorrer'
+
+ATENÁ√o: Est· com problemas. Para carregar outro labirinto, deve-se fechar o aplicativo e abrir de novo.
